@@ -28,3 +28,4 @@ public class PalindromeCheckerApp {
         sc.close();
     }
 }
+//test
